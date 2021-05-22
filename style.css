@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background: linear-gradient (#EC8A6F 0%, #74D5FB 100%)
+}
+
+#game {
+    width: 100%;
+    height: 800px;
+}
+
+#chatbot {
+    width: 100%;
+    height:800px;
+}
+
+img {
+    transition: transform .2s;
+}
